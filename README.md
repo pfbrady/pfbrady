@@ -1,5 +1,5 @@
-### ello m8, casually found this
-### welcome
+### ello m8, found out how to do this while messing with repos
+### welcome to my profile
 <!--
 **pfbrady/pfbrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
