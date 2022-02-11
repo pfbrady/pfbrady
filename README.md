@@ -1,5 +1,5 @@
 # Patrick Brady
-### welcome to my profile
+### Junior Statistics B.S./Computer Science B.S. Student at the University of Delaware
 <!--
 **pfbrady/pfbrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
