@@ -1,4 +1,4 @@
-### ello m8, found out how to do this while messing with repos
+# Patrick Brady
 ### welcome to my profile
 <!--
 **pfbrady/pfbrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
