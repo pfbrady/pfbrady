@@ -1,9 +1,7 @@
 # Patrick Brady
-### Junior Statistics B.S./Computer Science B.S. Student at the University of Delaware
+### 
 
-Hello! I am a both a full time student and part time nba stat junkie who enjoys finding interesting data sets on bbref and making cool looking graphs with them and occasionally posting them on Reddit. Most of my work is done in R (usually on RStudio), but I will now be learning how to some of the same things (and hopefully much more!) in my MATH267 course using Python.
 
-Outside of coding, I enjoy going on long hikes in places that have a little bit more elevation than Delaware (think New Hampshire, New Mexico, California, etc), playing old computer games, drinking lots of water, lifeguarding at the YMCA, and running (and hopefully not injuring myself). I have zero cats, which seems to be relevant for some reason (don't most bios contain some sort of reference to pets? idk). If I had to pick a number between 1 and 10 I would probably pick 6.
 
 
 <!--
